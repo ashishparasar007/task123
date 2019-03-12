@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+<id>cardconnect</id>
+<version>1.0</version>
+<priority>110050</priority>
+<default_language>en</default_language>
+<status>active</status>
+<auto_install>ULTIMATE</auto_install>
+<functions>
+  <item for="install">fn_cardconnect_install</item>
+  <item for="uninstall">fn_cardconnect_uninstall</item>
+</functions> 
+</addon>

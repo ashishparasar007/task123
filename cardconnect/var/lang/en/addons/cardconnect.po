@@ -1,0 +1,17 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::cardconnect"
+msgid "CardConnect Payment Gateway"
+msgstr "CardConnect Payment Gateway"
+
+msgctxt "LanguageName"
+msgid "Localized language name"
+msgstr "English"
+
+msgctxt "Addons::description::cardconnect"
+msgid "Add CardConnect Payment Gateway to your Store"
+msgid "Add CardConnect Payment Gateway to your Store"
